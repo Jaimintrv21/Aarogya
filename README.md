@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aarogya ⚕️ Your Personal Health Sidekick
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -81,3 +82,6 @@ If you like what we're doing, consider giving us a ⭐️ on GitHub!
 ---
 
 Made with ❤️ and a lot of ☕ by the [Dinesh Talwadker](https://github.com/dinxsh)
+=======
+# Aarogya
+>>>>>>> eab1713d75ca8f8a777877c5a416c3c9d290dd5a
