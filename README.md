@@ -81,7 +81,7 @@ If you like what we're doing, consider giving us a ⭐️ on GitHub!
 
 ---
 
-Made with ❤️ and a lot of ☕ by the [Dinesh Talwadker](https://github.com/dinxsh)
+Made with ❤️ and a lot of ☕ by the [Jaimin Trivedi](https://github.com/Jaimintrv21)
 =======
 # Aarogya
 >>>>>>> eab1713d75ca8f8a777877c5a416c3c9d290dd5a
