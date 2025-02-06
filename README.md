@@ -37,7 +37,7 @@ Aarogya is a cross-platform app that tracks your **calories, steps, sleep & goal
 
 2. Clone the repository:
 
-   ```git clone (https://github.com/Jaimintrv21/Aarogya.git)```
+   ```git clone https://github.com/Jaimintrv21/Aarogya.git```
 
 
 3. Install dependencies:
