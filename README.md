@@ -1,4 +1,4 @@
-# Aarogya ⚕️ Your Personal Health Sidekick
+#⚕️ Your Personal Health Sidekick |Arogya
 
 Because who doesn't want a digital friend that nags you about your health? 😉
 
